@@ -13,4 +13,4 @@ sprs1 = 110
 sprs2 = 1100.5
 sprs3 = 356.95
 toplam = (sprs1 + sprs2 + sprs3)
-print("Toplam: " + toplam)
+print("Toplam: ", toplam)
